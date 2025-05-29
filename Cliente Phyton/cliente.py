@@ -3,6 +3,7 @@ import socket
 HOST = '127.0.0.1'
 PUERTO = 8080
 
+print("Conectado al servidor")
 print("Seleccione una opción:")
 print("1. Generar nombre de usuario")
 print("2. Generar correo electrónico")
