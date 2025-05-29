@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp.sockets;
 
 /**
  *
@@ -31,7 +30,7 @@ public class Cliente {
         System.out.println("Seleccione una opción:\n1. Generar nombre de usuario\n2. Generar correo");
         int opcion = Integer.parseInt(consola.readLine());
 
-        String mensaje = entrada.readLine();
+        String mensaje;// = entrada.readLine();
 
 
         if (opcion == 1) {
