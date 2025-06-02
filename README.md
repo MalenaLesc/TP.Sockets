@@ -14,5 +14,8 @@ La comunicación entre clientes (Java y Python) y servidor se realiza utilizando
 - Braian Costadoni
 ---
 
-## Pasos para ejecutar el proyecto
-
+## Pasos para ejecutar el proyecto (ver demo.gif)
+1. **Abrir la carpeta del proyecto** en Visual Studio Code.
+2. **Hacer clic derecho** sobre el archivo `Servidor.java` y seleccionar `Run Java`.
+3. **Hacer clic derecho** sobre `Cliente.java` y seleccionar `Run Java` (se abre una nueva terminal).
+4. **Hacer clic derecho** sobre `cliente.py` y seleccionar `Run Python` (se abre una nueva terminal).
